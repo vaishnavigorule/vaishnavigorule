@@ -12,22 +12,17 @@
 
 <br/>
 
-<img align="right" alt="Testing GIF" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Women Developer GIF" width="320" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.gif"/>
 
 ### 👩‍💻 About Me
 
-```yaml
-╔══════════════════════════════════════╗
-║  Name     →  Vaishnavi Gorule        ║
-║  Role     →  QA Engineer             ║
-║  Location →  Palghar, Maharashtra 🇮🇳 ║
-║  Degree   →  B.Sc. Computer Science  ║
-║  CGPA     →  8.31 ⭐                 ║
-║  Training →  QSpiders (Testing)      ║
-║  Learning →  Java → Selenium 🚀      ║
-║  Status   →  Open to Work 🟢         ║
-╚══════════════════════════════════════╝
-```
+A detail-oriented **QA Engineer** and Computer Science graduate from the University of Mumbai (CGPA: 8.31), trained in Software Testing at **QSpiders**. I bring hands-on experience in Manual Testing, Test Case Design, Defect Reporting, and Agile methodologies across real-world projects.
+
+I have tested web applications, conducted Crowd Beta Testing, and applied QA practices within Java development — giving me a strong understanding of quality assurance across the full software development lifecycle.
+
+Currently expanding my skills into **Selenium Automation** and actively seeking entry-level QA / Software Testing roles where I can contribute, learn, and grow.
+
+📍 Palghar, Maharashtra, India &nbsp;|&nbsp; 📬 [LinkedIn](https://www.linkedin.com/in/vaishnavi-gorule-2a5475280)
 
 <br clear="right"/>
 
@@ -101,7 +96,7 @@
 
 | 🎖️ | Achievement | Year |
 |---|---|---|
-| 🥇 | NxtWave × OpenAI Academy Buildathon — **State Level Winner** | 2026 |
+| 🥇 | NxtWave × OpenAI Academy Buildathon — **State Level** | 2026 |
 | 📜 | Agile Scrum Master — **Simplilearn** | 2026 |
 | 📜 | Introduction to JIRA — **Certified** | 2026 |
 | 🏅 | 20th Aavishkar Research Convention — Participant | 2025 |
@@ -114,13 +109,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigorule&theme=tokyonight&hide_border=true)
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigorule&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -130,10 +122,10 @@
 
 ### 💬 Let's Connect!
 
-*I'm actively looking for entry-level QA / Software Testing roles.*
-*Feel free to reach out — let's build quality software together!*
+*I am actively seeking entry-level QA and Software Testing roles.*
+*Open to collaborations, learning opportunities, and meaningful projects.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gorule-2a5475280)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gorule-2a5475280)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
