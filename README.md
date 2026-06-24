@@ -1,64 +1,92 @@
-# Hi, I'm Vaishnavi Gorule 👋
+<div align="center">
 
-🎯 QA Engineer | Computer Science Graduate | Manual Testing | SQL | JIRA | Agile
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20Gorule&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Engineer%20%7C%20Manual%20Testing%20%7C%20SQL%20%7C%20JIRA%20%7C%20Agile&descAlignY=55&descSize=16"/>
 
-📍 Palghar, Maharashtra, India &nbsp;|&nbsp; 📫 [LinkedIn](https://www.linkedin.com/in/vaishnavi-gorule-2a5475280)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gorule-2a5475280)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavigorule)
+
+</div>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 B.Sc. Computer Science Graduate — University of Mumbai (CGPA: 8.31)
-- 🧪 Trained in Software Testing at **QSpiders**
-- 🔍 Passionate about breaking software before users do!
-- 🌱 Currently learning: Core Java → Selenium Automation
-- 💼 Open to entry-level QA / Software Testing roles
+```yaml
+Name     : Vaishnavi Gorule
+Role     : QA Engineer (Entry-Level)
+Location : Palghar, Maharashtra, India
+Degree   : B.Sc. Computer Science — University of Mumbai (CGPA: 8.31)
+Training : Software Testing @ QSpiders
+Learning : Core Java → Selenium Automation
+Status   : 🟢 Open to QA / Software Testing Roles
+```
 
 ---
 
 ## 🛠️ Skills
 
+<div align="center">
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-FF6B6B?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-47A248?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
 | Category | Skills |
 |---|---|
-| Testing | Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Component Testing, Integration Testing, Exploratory Testing, Cross Browser Testing |
-| Test Design | Test Case Design, Boundary Value Analysis, Defect Reporting, Defect Life Cycle |
-| Tools | JIRA, TestYantra, SQLPLUS, Eclipse, Vscode, MS Excel |
-| Development | Core Java, OOP, CRUD, Exception Handling |
-| Methodology | SDLC, STLC, Agile, Scrum |
-| Database | SQL |
+| 🧪 Testing | Manual, Functional, Regression, Smoke, Component, Integration, Exploratory, Cross Browser |
+| 📋 Test Design | Test Case Design, BVA, Defect Reporting, Defect Life Cycle |
+| 🔧 Tools | JIRA, TestYantra, SQL Plus, Eclipse, VS Code, MS Excel |
+| ☕ Development | Core Java, OOP, CRUD, Exception Handling |
+| 📐 Methodology | SDLC, STLC, Agile, Scrum |
 
 ---
 
 ## 📂 Projects
 
-### 🍽️ [FoodCare – Manual Testing](https://github.com/vaishnavigorule/FoodCare)
-Web app connecting food donors with NGOs. Performed component & integration testing across Login, Sign Up, Food Donation, NGO Pickup, and Logout modules.
-
-### 📱 [Adukunta – Crowd Beta Testing](https://github.com/vaishnavigorule/Adukunta-Crowd-Beta-Testing-)
-Exploratory testing with admin-level access via TestYantra platform. Identified and reported real-world defects.
-
-### 🚆 [IRCTC Registration Module – Functional Testing](https://github.com/vaishnavigorule/IRCTC-Registration-Module-Testing)
-Component testing on input fields including BVA, positive/negative testing, and error message validation.
-
-### 💼 Java Applications – Developed & Tested
-Employee Management System, Banking Application, and Library Management System built and tested using Core Java, OOP, CRUD operations, and manual testing practices.
+| Project | Type | Description |
+|---|---|---|
+| 🍽️ [FoodCare](https://github.com/vaishnavigorule/FoodCare) | Manual Testing | Web app connecting food donors with NGOs — component & integration testing |
+| 📱 [Adukunta](https://github.com/vaishnavigorule/Adukunta-Crowd-Beta-Testing-) | Crowd Beta Testing | Exploratory testing with admin access via TestYantra platform |
+| 🚆 [IRCTC Registration](https://github.com/vaishnavigorule/IRCTC-Registration-Module-Testing) | Functional Testing | Component testing with BVA, positive/negative testing, error validation |
+| 💼 Java Applications | Dev + Testing | Employee Management, Banking App, Library System — built & tested |
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 NxtWave × OpenAI Academy Buildathon — State Level (2026)
-- 📜 Agile Scrum Master — Simplilearn (2026)
-- 📜 Introduction to JIRA (2026)
-- 🏅 20th Aavishkar Research Convention — Participant (2025)
-- 🏅 19th Aavishkar Research Convention — Final Round (2024)
+<div align="center">
+
+🥇 **NxtWave × OpenAI Academy Buildathon — State Level (2026)**
+
+📜 **Agile Scrum Master — Simplilearn (2026)** &nbsp;|&nbsp; 📜 **Introduction to JIRA (2026)**
+
+🏅 **20th Aavishkar Research Convention (2025)** &nbsp;|&nbsp; 🏅 **19th Aavishkar — Final Round (2024)**
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=blue-green&hide_border=true)
+<div align="center">
+
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=tokyonight&hide_border=true&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 ⭐ *"Quality is not an act, it is a habit."*
+
+</div>
