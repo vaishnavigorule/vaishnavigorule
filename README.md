@@ -14,7 +14,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20🟢-success?style=for-the-badge"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vaishnavigorule&style=for-the-badge&color=ee0979&label=Profile+Views"/>
 
 </div>
 
