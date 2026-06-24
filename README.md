@@ -207,9 +207,7 @@ Employee Management System · Banking Application · Library Management System �
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vaishnavigorule&color=ee0979&style=flat-square&label=Profile+Visitors)
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=130&section=footer"/>
 
