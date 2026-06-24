@@ -57,7 +57,7 @@ Employee Management System, Banking Application, and Library Management System b
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=merko&hide_border=true)
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=blue-green&hide_border=true)
 
 ---
 
