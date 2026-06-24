@@ -37,7 +37,7 @@ Web app connecting food donors with NGOs. Performed component & integration test
 ### 📱 [Adukunta – Crowd Beta Testing](https://github.com/vaishnavigorule/Adukunta-Crowd-Beta-Testing-)
 Exploratory testing with admin-level access via TestYantra platform. Identified and reported real-world defects.
 
-### 🚆 [IRCTC Registration Module – Functional Testing](https://github.com/vaishnavigorule/IRCTC-Registration-Module-Tesfing)
+### 🚆 [IRCTC Registration Module – Functional Testing](https://github.com/vaishnavigorule/IRCTC-Registration-Module-Testing)
 Component testing on input fields including BVA, positive/negative testing, and error message validation.
 
 ### 💼 Java Applications – Developed & Tested
@@ -57,7 +57,7 @@ Employee Management System, Banking Application, and Library Management System b
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=default&hide_border=true)
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
