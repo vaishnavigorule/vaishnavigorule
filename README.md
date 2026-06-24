@@ -22,7 +22,7 @@
 |---|---|
 | Testing | Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Component Testing, Integration Testing, Exploratory Testing, Cross Browser Testing |
 | Test Design | Test Case Design, Boundary Value Analysis, Defect Reporting, Defect Life Cycle |
-| Tools | JIRA, TestYantra, SQLPLUS, Eclipse, Vscode, MS Execl |
+| Tools | JIRA, TestYantra, SQLPLUS, Eclipse, Vscode, MS Excel |
 | Development | Core Java, OOP, CRUD, Exception Handling |
 | Methodology | SDLC, STLC, Agile, Scrum |
 | Database | SQL |
