@@ -13,7 +13,8 @@
   </a>
   &nbsp;
   <a href="https://vaishnavi-gorule.my.canva.site/">
-  <img src="https://img.shields.io/badge/Portfolio🟢-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge"/>
+  </a>
   &nbsp;
 
 </div>
