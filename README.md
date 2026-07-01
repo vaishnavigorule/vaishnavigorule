@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://vaishnavi-gorule.my.canva.site/">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20🟢-success?style=for-the-badge"/>
   &nbsp;
 
