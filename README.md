@@ -94,6 +94,20 @@
 
 ---
 
+## 🗣️ Languages
+
+<br/>
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Fluent-ee0979?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Fluent-ff6a00?style=for-the-badge)
+![Marathi](https://img.shields.io/badge/Marathi-Native-f7971e?style=for-the-badge)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <br/>
