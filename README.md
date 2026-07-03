@@ -94,6 +94,18 @@
 
 ---
 
+## 💻 Languages Used
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&hide_border=true&layout=compact&langs_count=8&bg_color=161616&title_color=ee0979&text_color=ff6a00"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <br/>
@@ -189,15 +201,6 @@ Employee Management System · Banking Application · Library Management System �
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigorule&theme=radical&hide_border=true"/>
 
-</div>
-
----
-
-💻 Languages Used
-
-<br/>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&hide_border=true&layout=compact&langs_count=8&bg_color=161616&title_color=ee0979&text_color=ff6a00"/>
 </div>
 
 ---
