@@ -193,6 +193,102 @@ Employee Management System · Banking Application · Library Management System �
 
 ---
 
+---
+
+## 💻 Languages Used Across My GitHub Repositories
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+
+### ☕ Java
+
+<img src="https://img.shields.io/badge/Projects-4-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+Core Java • OOP • Collections • Exception Handling
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄 SQL
+
+<img src="https://img.shields.io/badge/Queries-100+-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+Joins • Views • Constraints • Functions
+
+</td>
+
+<td align="center" width="180">
+
+### 🌐 HTML
+
+<img src="https://img.shields.io/badge/Web-Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+Portfolio • Testing Projects
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🎨 CSS
+
+<img src="https://img.shields.io/badge/UI-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+Responsive Design
+
+</td>
+
+<td align="center">
+
+### ⚡ JavaScript
+
+<img src="https://img.shields.io/badge/Frontend-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+DOM • Validation
+
+</td>
+
+<td align="center">
+
+### 📄 Markdown
+
+<img src="https://img.shields.io/badge/Documentation-Professional-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+Test Cases • Bug Reports • README
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+### 📈 Technology Usage Across Repositories
+
+| Technology | Used In |
+|------------|---------|
+| ☕ Java | Java Applications, Java-for-QA |
+| 🗄 SQL | SQL-for-QA, Database Testing |
+| 🌐 HTML | Portfolio, Web Projects |
+| 🎨 CSS | Portfolio, Web Projects |
+| ⚡ JavaScript | Frontend Projects |
+| 📄 Markdown | QA Documentation, GitHub Repositories |
+| 🔧 Git & GitHub | Version Control & Project Management |
+
+---
+
 
 ## 🤝 Let's Connect
 
