@@ -210,8 +210,6 @@ Employee Management System · Banking Application · Library Management System �
 
 <br/>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=130&section=footer"/>
 
 </div>
