@@ -191,9 +191,7 @@ Employee Management System · Banking Application · Library Management System �
 
 </div>
 
-
 ---
-
 
 ## 🤝 Let's Connect
 
@@ -210,6 +208,8 @@ Employee Management System · Banking Application · Library Management System �
 [![LinkedIn](https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gorule-2a5475280)
 
 <br/>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=130&section=footer"/>
 
