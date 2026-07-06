@@ -194,23 +194,29 @@ Employee Management System · Banking Application · Library Management System �
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
+
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigorule&theme=radical&hide_border=true"/>
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&layout=compact&theme=radical&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavigorule&theme=react-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigorule&theme=radical&hide_border=true"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
 
 ---
 ---
