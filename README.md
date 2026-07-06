@@ -179,7 +179,17 @@ Employee Management System · Banking Application · Library Management System �
 
 ---
 
+## 📊 GitHub Analytics
 
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavigorule&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigorule&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
