@@ -191,6 +191,14 @@ Employee Management System · Banking Application · Library Management System �
 
 </div>
 
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigorule&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
 ---
 
 
